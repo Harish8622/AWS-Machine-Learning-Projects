@@ -1,6 +1,19 @@
 # AWS Machine Learning Projects
 
-This portfolio features three end-to-end machine learning projects showcasing practical use of model development, deployment, and monitoring on AWS.
+Three end-to-end machine learning projects: two fully engineered and deployed on AWS (SageMaker, Lambda, API Gateway, S3), and one LangGraph-based agentic system that combines a flight-delay prediction model with conversational and tool-driven interaction.
+
+---
+
+
+## ✈️ Aero-Delay-Project
+> A conversational LangGraph agent paired with an end-to-end flight delay prediction model, helping passengers understand the likelihood of future flight delays using historical U.S. flight data. The agent can query the prediction model and other tools to deliver useful, contextualised flight information.
+
+- Interactive LangGraph agent capable of answering flight-related queries
+- Built-in evaluation layer to reduce incorrect or harmful responses
+- Full ML pipeline: preprocessing → training → evaluation → inference
+
+
+🔗 [GitHub Repository](https://github.com/Harish8622/aero-delay-project)
 
 ---
 
@@ -26,11 +39,4 @@ This portfolio features three end-to-end machine learning projects showcasing pr
 
 ---
 
-## ✈️ Aero-Delay-Project
-> End-to-end flight delay analysis and prediction pipeline. Features data ingestion and cleaning, feature engineering (scheduling, weather, airport traffic), model training and evaluation, and deployment for batch inference and monitoring on AWS.
 
-- Predicts flight departure/arrival delays using historical flight, weather, and schedule data  
-- Includes exploratory data analysis, feature pipelines, and model evaluation notebooks  
-- Deployment-ready artifacts and scripts for batch inference with SageMaker
-
-🔗 [GitHub Repository](https://github.com/Harish8622/aero-delay-project)
