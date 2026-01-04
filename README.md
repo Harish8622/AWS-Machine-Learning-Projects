@@ -13,7 +13,7 @@ Three end-to-end machine learning projects: two fully engineered and deployed on
 - Full ML pipeline: preprocessing → training → evaluation → inference
 
 
-🔗 [GitHub Repository](https://github.com/Harish8622/aero-delay-project)
+🔗 [GitHub Repository](https://github.com/Harish8622/Aero-delay-prediction)
 
 ---
 
