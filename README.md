@@ -1,4 +1,4 @@
-# AWS Machine Learning Projects
+# Machine Learning Projects
 
 Three end-to-end machine learning projects: two fully engineered and deployed on AWS (SageMaker, Lambda, API Gateway, S3), and one LangGraph-based agentic system that combines a flight-delay prediction model with conversational and tool-driven interaction.
 
