@@ -1,6 +1,6 @@
 # AWS Machine Learning Projects
 
-This portfolio features two end-to-end machine learning projects I developed while completing the **Udacity AWS Machine Learning Engineer Nanodegree**. Each solution demonstrates practical use of core AWS services with a focus on real-time inference, serverless deployment, and scalable architecture.
+This portfolio features three end-to-end machine learning projects showcasing practical use of model development, deployment, and monitoring on AWS.
 
 ---
 
@@ -23,3 +23,14 @@ This portfolio features two end-to-end machine learning projects I developed whi
 - Sends real-time alerts via email for suspicious detections
 
 🔗 [GitHub Repository](https://github.com/Harish8622/SentryCam-AWS)
+
+---
+
+## ✈️ Aero-Delay-Project
+> End-to-end flight delay analysis and prediction pipeline. Features data ingestion and cleaning, feature engineering (scheduling, weather, airport traffic), model training and evaluation, and deployment for batch inference and monitoring on AWS.
+
+- Predicts flight departure/arrival delays using historical flight, weather, and schedule data  
+- Includes exploratory data analysis, feature pipelines, and model evaluation notebooks  
+- Deployment-ready artifacts and scripts for batch inference with SageMaker
+
+🔗 [GitHub Repository](https://github.com/Harish8622/aero-delay-project)
